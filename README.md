@@ -105,11 +105,6 @@ Contributions are welcome! If you'd like to improve the code, fix issues, or add
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any queries or suggestions:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
 
 ---
 Thank you for checking out the Titanic Survival Prediction project! 🚢
